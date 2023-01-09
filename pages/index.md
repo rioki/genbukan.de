@@ -60,5 +60,5 @@ Selbstverteidigung sowie im Alltag, zunutze zu machen.
     {coords: [52.59371, 9.30341], text: 'Gruppe Linsburg (Nieburg)'},
     {coords: [52.27189, 8.04813], text: 'Gruppe Osnabrück'},
     {coords: [52.51727, 13.38821], text: 'Kurohyou Dojo Berlin'}
-  ])
+  ]);
 </script>
