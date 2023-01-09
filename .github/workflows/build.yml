@@ -21,7 +21,6 @@ jobs:
         npm run build
     - name: S3 Sync
       uses: jakejarvis/s3-sync-action@master
-      if: github.ref == 'refs/heads/master'
       with:
         args: --acl public-read --delete
       env:
