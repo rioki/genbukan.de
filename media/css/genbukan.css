@@ -1,0 +1,70 @@
+
+a, a:hover, a:visited {
+  color: rgb(228, 25, 55)
+}
+
+header {
+  /*background-image: url('../images/tatami.jpg');*/
+  background-size: cover;
+  padding-bottom: 2em;
+  background-position: top;
+  background-color: rgb(236, 236, 236);
+}
+
+
+header a, 
+header a:hover, 
+header a:visited {
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+}
+
+.hero-logo {
+  position: relative;
+  text-align: center;
+}
+
+.logo {
+  position: relative;
+  max-width: 80%;
+}
+
+.hero-text {
+  font-size: 150%;
+  padding-top: 5rem;
+}
+
+nav a {
+  font-size: 150%;
+  text-decoration: none;
+}
+
+.menu-item {
+  text-align: center;
+}
+
+footer {
+  margin-top: 4em;
+  padding: 1em 0;
+  text-align: center;
+  background-color: rgb(236, 236, 236);
+}
+
+article {
+  margin-top: 2em;
+}
+
+article h2 {
+  margin-top: 4em;
+}
+
+article img {
+  max-width: 100%;
+  margin: 0 auto;
+  margin-bottom: 1em;
+}
+
+article table {
+  margin: 0 auto;
+  margin-bottom: 2em;
+}
