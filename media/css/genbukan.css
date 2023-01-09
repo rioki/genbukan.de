@@ -5,6 +5,9 @@ a, a:hover, a:visited {
 
 header {
   background-color: rgb(236, 236, 236);
+  background-image: url('../images/hero-image.jpg');
+  background-position: 75% 10%;
+  background-size: cover;
 }
 
 header a, 
@@ -17,9 +20,6 @@ header a:visited {
 .hero {
   color: rgb(228, 25, 55);
   text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
-  background-image: url('../images/sf-kamae-blue.jpg');
-  background-position: top;
-  background-size: cover;
   font-weight: bold;
 }
 
@@ -31,16 +31,19 @@ header a:visited {
 .logo {
   position: relative;
   max-width: 80%;
+  padding-top: 5rem;
 }
 
 .hero-text {
   font-size: 150%;
   padding-top: 5rem;
+  text-align: center;
 }
 
 nav {
   padding-top: 1em;
   padding-bottom: 1em;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 }
 
 .menu-item {

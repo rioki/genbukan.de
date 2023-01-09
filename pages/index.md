@@ -23,7 +23,7 @@ Jahren japanischer Kriegskunst, Kampfkunst und spirituellem Wissen zu
 profitieren und dir diese Dinge in gefährlichen Situationen, für die
 Selbstverteidigung sowie im Alltag, zunutze zu machen.
 
-![](/images/Oostende.jpg)
+<img src="/images/berlin-gruppenfoto.jpg" style="width: 100%">
 
 ## Dojos in Deutschland
 
