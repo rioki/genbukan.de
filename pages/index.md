@@ -1,6 +1,4 @@
 
-![Oostende](images/Oostende.jpg)
-
 ## Genbukan Ninpo Bugei
 
 Genbukan Ninpo Bugei ist ein traditionelles japanisches Kampfkunstsystem, unter
@@ -25,7 +23,9 @@ Jahren japanischer Kriegskunst, Kampfkunst und spirituellem Wissen zu
 profitieren und dir diese Dinge in gefährlichen Situationen, für die
 Selbstverteidigung sowie im Alltag, zunutze zu machen.
 
-## Unsere Dojos
+![](/images/Oostende.jpg)
+
+## Dojos in Deutschland
 
 <div class="row">
   <div class="one-half column">

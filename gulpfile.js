@@ -55,7 +55,7 @@ function serverTask() {
   gulp.watch('media/**/*', mediaTask);
   gulp.watch('pages/*.md', pagesTask);
   gulp.watch('pages/*.html', pagesHtmlTask);
-  gulp.watch('templates/*.html', pagesTask);
+  gulp.watch('templates/*.html', gulp.parallel(pagesTask, pagesHtmlTask));
 
   liveServer.start({
     root: "build",
