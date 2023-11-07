@@ -31,6 +31,7 @@ Selbstverteidigung sowie im Alltag, zunutze zu machen.
   <div class="one-half column">
     <ul>
       <li><a href="/dojos.html#berlin">Kurohyou Dojo Berlin</a></li>
+      <li><a href="/dojos.html#regensburg">Eishin Dojo Regensburg</a></li>
       <li><a href="/dojos.html#karlsruhe">Mikajama Dojo Karlsruhe</a></li>
       <li><a href="/dojos.html#linsburg">Gruppe Linsburg (Nieburg)</a></li>
       <li><a href="/dojos.html#osnabrueck">Gruppe Osnabrück</a></li>
@@ -56,9 +57,10 @@ Selbstverteidigung sowie im Alltag, zunutze zu machen.
   }
 
   mapMap('map0', [50.97461, 10.32057], 5, [
-    {coords: [49.00581, 8.40412], text: 'Mikajama Dojo Karlsruhe'},
-    {coords: [52.59371, 9.30341], text: 'Gruppe Linsburg (Nieburg)'},
-    {coords: [52.27189, 8.04813], text: 'Gruppe Osnabrück'},
-    {coords: [52.51727, 13.38821], text: 'Kurohyou Dojo Berlin'}
+    {coords: [49.00581, 8.40412], text: '<a href="/dojos.html#karlsruhe">Mikajama Dojo Karlsruhe</a>'},
+    {coords: [52.59371, 9.30341], text: '<a href="/dojos.html#linsburg">Gruppe Linsburg (Nieburg)</a>'},
+    {coords: [52.27189, 8.04813], text: '<a href="/dojos.html#osnabrueck">Gruppe Osnabrück</a>'},
+    {coords: [49.00570, 12.13158], text: '<a href="/dojos.html#regensburg">Eishin Dojo Regensburg</a>'},
+    {coords: [52.51727, 13.38821], text: '<a href="/dojos.html#berlin">Kurohyou Dojo Berlin</a>'}
   ]);
 </script>
