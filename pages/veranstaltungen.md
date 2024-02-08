@@ -10,7 +10,7 @@
     </div>
   </div>
   <div class="nine columns">
-    <h4 class="event-heading autolink" id="seminar-2024">Ninjutsu Seminar Karlsruhe 2024</h4>
+    <h4 class="event-heading autolink" id="karlsruhe-seminar-2024">Ninjutsu Seminar Karlsruhe 2024</h4>
     <p class="event-description">
       Am 27. und 28. April 2024 treffen wir uns im Mikayama Dojo im SSC Karlsruhe 
       zu einem Ninjutsu-Seminar mit Kyoshi Aerts und Ni-Dan Tschöpe, wo wir uns 
@@ -34,7 +34,7 @@
     </div>
   </div>
   <div class="nine columns">
-    <h4 class="event-heading autolink" id="seminar-2024">Outdoor Workshop Berlin 2024</h4>
+    <h4 class="event-heading autolink" id="berlin-workshop-2024">Outdoor Workshop Berlin 2024</h4>
     <p class="event-description">
       Vom 19. bis 23. August 2024 veranstalten wir unseren ersten Outdoor Workshop 
       in Berlin. Dieser Workshop bietet eine einzigartige Kombination aus täglichem 
