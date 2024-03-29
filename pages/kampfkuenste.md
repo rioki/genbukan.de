@@ -20,7 +20,6 @@ Juhakkei). Es gibt viele Ryu-Ha von Ninpo:
 * Shinden Fudo Ryu 
 * Tatara Shinden Ryu 
 * Kumogakure Ryu 
-* ...
 
 Einige Ninpogrundsätze sind: Tai-Jutsu (unbewaffnete Verteidigung), Bo-Jutsu
 (Stock – 180 cm – 6 Fuß), Biken-Jutsu (geheime Schwerttechniken), Yari-Jutsu
