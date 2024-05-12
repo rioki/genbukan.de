@@ -4,31 +4,7 @@
 <div class="row event">
   <div class="three columns">
     <div class="event-date">
-      <span class="event-date-day">27 / 28</span>
-      <span class="event-date-month">April</span>
-      <span class="event-date-year">2024</span>
-    </div>
-  </div>
-  <div class="nine columns">
-    <h4 class="event-heading autolink" id="karlsruhe-seminar-2024">Ninjutsu Seminar Karlsruhe 2024</h4>
-    <p class="event-description">
-      Am 27. und 28. April 2024 treffen wir uns im Mikayama Dojo im SSC Karlsruhe 
-      zu einem Ninjutsu-Seminar, wo wir uns 
-      auf Ninjutsu, Jujutsu, Selbstverteidigung und eventuell Waffenkünste wie 
-      Bikenjutsu, Bokkenjutsu und Shurikenjutsu auszuprobieren. Neben der 
-      Möglichkeit, von erfahrenen Meistern zu lernen, bieten wir auch 
-      Kyu-Prüfungen für diejenigen an, die bereit sind, ihre Fähigkeiten 
-      zu testen. Melde dich jetzt an.
-    </p>
-    <p class="event-description">
-      <a href="https://www.genbukanmikayama.de/intern.html#seminar-2024">Infos & Anmeldung</a>
-  </div>
-</div>
-
-<div class="row event">
-  <div class="three columns">
-    <div class="event-date">
-      <span class="event-date-day">19 / 23</span>
+      <span class="event-date-day">19 - 23</span>
       <span class="event-date-month">August</span>
       <span class="event-date-year">2024</span>
     </div>
@@ -48,6 +24,7 @@
       Gleichgesinnter wachsen möchten.
     </p>
     <p class="event-description">
-      Mehr Infos und Anmeldung unter genbukan-berlin@web.de
+      <a href="https://forms.gle/W8kQV6fk6KHkvPno8" class="button">Anmeldung</a>
+    </p>
   </div>
 </div>
