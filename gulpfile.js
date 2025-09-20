@@ -26,7 +26,7 @@ function applyTemplate(templateFile) {
 }
 
 function mediaTask() {
-  return gulp.src('media/**/*')
+  return gulp.src('media/**/*', { encoding: false })
     .pipe(gulp.dest('build'))
 }
 
@@ -59,7 +59,12 @@ function serverTask() {
 
   liveServer.start({
     root: "build",
-    wait: 500
+    wait: 500,
+    headers: {
+      'Cache-Control': 'no-store, must-revalidate',
+      'Pragma': 'no-cache',
+      'Expires': '0'
+    }
   });
 }
 
