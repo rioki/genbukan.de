@@ -38,14 +38,6 @@ function pagesTask() {
     .pipe(gulp.dest('build'))
 }
 
-
-function pagesHtmlTask() {
-  return gulp.src('pages/*.html')
-    .pipe(applyTemplate('templates/page.html'))
-    .pipe(rename({extname: '.html'}))
-    .pipe(gulp.dest('build'))
-}
-
 function cleanTask() {
   return gulp.src('build', {read: false, allowEmpty: true})
     .pipe(clean())
@@ -54,8 +46,7 @@ function cleanTask() {
 function serverTask() {
   gulp.watch('media/**/*', mediaTask);
   gulp.watch('pages/*.md', pagesTask);
-  gulp.watch('pages/*.html', pagesHtmlTask);
-  gulp.watch('templates/*.html', gulp.parallel(pagesTask, pagesHtmlTask));
+  gulp.watch('templates/*.html', pagesTask);
 
   liveServer.start({
     root: "build",
@@ -68,7 +59,7 @@ function serverTask() {
   });
 }
 
-let buildTasks = gulp.parallel(mediaTask, pagesTask, pagesHtmlTask)
+let buildTasks = gulp.parallel(mediaTask, pagesTask)
 
 exports.build   = buildTasks
 exports.clean   = cleanTask
